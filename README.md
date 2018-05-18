@@ -3,7 +3,9 @@ The Biltong Republic Bible
 
 
 
-### Production ###
+## Production ##
 Name | Contact | Company 
-Mike |0168 3422 873 | Mike's Beefy Biltong 
+------------ | ------------- | -------------
+Mike Till | 01683422873 | Mike's Beefy Biltog 
+
 
